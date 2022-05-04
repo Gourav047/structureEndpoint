@@ -1,0 +1,25 @@
+{
+  "name": "structureendpoint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "dev-start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gourav047/structureEndpoint.git"
+  },
+  "author": "Gourav",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Gourav047/structureEndpoint/issues"
+  },
+  "homepage": "https://github.com/Gourav047/structureEndpoint#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
